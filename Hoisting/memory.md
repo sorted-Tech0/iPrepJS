@@ -1,0 +1,4 @@
+(1) If the piece of code is not weapped inside the function, that pice of data belongs to global execution context.
+(2) At the time of writting code "window object" and "this" created for us by default. And for variable in the code, the memory for them will be declared and assign to "undefined" by default. And that's called HOISTING
+(3) HOISTING in functions statement: memeory allocated before running the code and can be called before the declaration of the function.
+(4) Regular function can be called from anywhere even before their declaration BUT function expression can not be called like that, they only can be called after defclaring the function only.
