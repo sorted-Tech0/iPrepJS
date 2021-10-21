@@ -1,0 +1,1 @@
+(1) OBJECT: Objects are Key:value pair and it could be of any type.
